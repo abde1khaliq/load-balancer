@@ -2,15 +2,14 @@
 
 Made to learn and simulate how a real Load Balancer would behave like.
 
-## whilst building this project
-
-![Vibe](https://ik.imagekit.io/cin2tn3bj/screeny.jpeg)
-
-
 ## Features
 
 - **Health Checks**: Always checks servers' health
 - **Round Robin**: Algorithm for Load Balancing
+
+## whilst building this project
+
+![Vibe](https://ik.imagekit.io/cin2tn3bj/screeny.jpeg)
 
 
 ## How to run the project locally
